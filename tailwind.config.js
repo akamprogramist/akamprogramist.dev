@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   darkMode: "class",
   theme: {
     extend: {
@@ -6,9 +6,8 @@ module.exports = {
         "3xl": "0 5px 20px 2px rgba(0,0,0,0.1)",
       },
       colors: {
-        bluesh: "#3BA2B1",
-        redsh: "#E14038",
-        yellowsh: "#F0B431",
+        grayish: "#18181B",
+        grayish1: "#242427",
       },
     },
   },

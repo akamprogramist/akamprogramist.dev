@@ -1,9 +1,9 @@
 <template>
-  <div class="px-72 dark:bg-slate-800">
-    <Navbar />
-    <slot />
+  <div>
+    <Navbar class="px-72" />
+    <div class="px-72">
+      <slot />
+    </div>
   </div>
 </template>
-<script setup>
-const colorMode = useColorMode();
-</script>
+<script setup></script>
