@@ -3,11 +3,16 @@
 @tailwind utilities;
 
 body {
-  background-color: #fff;
-  color: rgba(0, 0, 0, 0.8);
+  color: #1a202c;
   font-family: "Roboto", sans-serif;
+  background-color: #f0e7db;
+  background-image: radial-gradient(#404040b9 0.25px, #f0e7db 1px);
+  background-size: 23px 23px;
 }
 .dark body {
-  background-color: #1a1a1a;
-  color: #fafafa;
+  color: #ededee;
+  font-family: "Roboto", sans-serif;
+  background-color: #202023;
+  background-image: radial-gradient(#ababab6b 0.25px, #202023 1px);
+  background-size: 23px 23px;
 }

@@ -6,8 +6,9 @@ export default {
         "3xl": "0 5px 20px 2px rgba(0,0,0,0.1)",
       },
       colors: {
-        grayish: "#18181B",
-        grayish1: "#242427",
+        primary: "#202023",
+        creamy: "#FBD38D",
+        violety: "#805AD5",
       },
     },
   },

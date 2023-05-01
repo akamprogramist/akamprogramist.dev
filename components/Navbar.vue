@@ -1,36 +1,51 @@
 <template>
   <div
-    class="flex backdrop-blur sticky top-0 text-lg justify-between gap-3 items-center p-2"
+    class="flex backdrop-blur-lg sticky top-0 text-lg justify-between gap-3 items-center py-3"
   >
     <div>
-      <NuxtLink to="/" class="flex items-center gap-1"
-        ><Icon name="mdi:home" />Home</NuxtLink
-      >
+      <NuxtLink to="/" class="">Home</NuxtLink>
     </div>
-    <div class="w-80 flex capitalize justify-between">
+    <div class="w-64 flex capitalize justify-between">
       <NuxtLink
         to="/"
-        class="px-5 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-grayish"
-        >About</NuxtLink
-      >
+        class="rounded-lg my-2 dark:text-secondary hover:opacity-70"
+        >About
+      </NuxtLink>
       <NuxtLink
         to="/"
-        class="px-5 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-grayish"
-        >projects</NuxtLink
-      >
+        class="rounded-lg my-2 dark:text-secondary hover:opacity-70"
+        >Work
+      </NuxtLink>
       <NuxtLink
         to="/"
-        class="px-5 py-2 rounded-lg border hover:bg-gray-100 dark:hover:bg-grayish"
-        >resume</NuxtLink
-      >
+        class="rounded-lg my-2 dark:text-secondary hover:opacity-70"
+        >Expirence
+      </NuxtLink>
     </div>
-
-    <select v-model="$colorMode.preference">
-      <option value="dark">dark</option>
-      <option value="light">light</option>
-    </select>
+    <div>
+      <button
+        @click="toggleDark"
+        v-if="colorMode.value === 'dark'"
+        class="flex items-center text-xl p-2.5 rounded-lg bg-creamy hover:opacity-80 text-black"
+      >
+        <Icon name="material-symbols:sunny-outline-rounded" />
+      </button>
+      <button
+        @click="toggleLight"
+        v-else
+        class="flex items-center text-xl p-2.5 rounded-lg bg-violet-500 hover:bg-violet-600 text-white"
+      >
+        <Icon name="material-symbols:dark-mode-outline" />
+      </button>
+    </div>
   </div>
 </template>
 <script setup>
 const colorMode = useColorMode();
+function toggleDark() {
+  colorMode.value = "light";
+}
+function toggleLight() {
+  colorMode.value = "dark";
+}
 </script>
