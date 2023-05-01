@@ -8,7 +8,7 @@ export default {
       colors: {
         primary: "#202023",
         creamy: "#FBD38D",
-        violety: "#805AD5",
+        bluesh: "#3D7AED",
       },
     },
   },
