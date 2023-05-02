@@ -1,0 +1,64 @@
+<template>
+  <div class="py-20">
+    <Sticky />
+    <div class="ml-96">
+      <div
+        class="grid grid-cols-2 items-center align-top after:h-0.5 after:block after:bg-white"
+      >
+        <p class="tracking-[9px]">interests</p>
+      </div>
+      <div>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+        <p>akam</p>
+      </div>
+    </div>
+  </div>
+  <div></div>
+</template>

@@ -7,7 +7,7 @@
     </div>
     <div class="w-64 flex capitalize justify-between">
       <NuxtLink
-        to="/"
+        to="/about"
         class="rounded-lg my-2 dark:text-secondary hover:opacity-70"
         >About
       </NuxtLink>
