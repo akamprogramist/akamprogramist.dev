@@ -9,35 +9,39 @@
     </div> -->
 
     <div class="my-5 space-y-3 text-center capitalize">
-      <p class="dark:text-creamy text-lg text-bluesh">Hi, My Name is</p>
-      <p class="text-8xl font-bold tracking-wide">
+      <p class="dark:text-creamy text-bluesh">Hi, My Name is</p>
+      <p class="text-6xl font-bold tracking-wide">
         Akam
         <span class="kamal">Kamal</span>
       </p>
     </div>
     <div>
-      <p class="text-4xl font-bold tracking-wide leading-snug text-center my-5">
-        Building digital products, brands,<br />
-        and experience.
+      <p class="text-center my-5">
+        I’m a software engineer specializing in building (and occasionally
+        designing) exceptional digital experiences. Currently, I’m focused on
+        building accessible, human-centered products at Upstatement.
       </p>
     </div>
     <div class="flex justify-center gap-4 my-7">
       <button
-        class="flex bg-bluesh dark:bg-creamy text-black font-bold py-4 px-14 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy border-bluesh rounded duration-300"
+        class="flex bg-bluesh dark:bg-creamy text-black font-bold py-3 px-8 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy border-bluesh rounded duration-300"
       >
         Get in Touche
       </button>
       <button
-        class="flex text-creamy font-bold py-4 px-14 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black border-bluesh rounded duration-300"
+        class="flex text-creamy font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black border-bluesh rounded duration-300"
       >
-        About Me
+        Download CV
       </button>
     </div>
-    <!-- <div class="flex gap-4 my-5 justify-center">
-      <Icon name="mdi:github" class="text-3xl" />
-      <Icon name="mdi:facebook" class="text-3xl" />
-      <Icon name="mdi:instagram" class="text-3xl" />
-    </div> -->
+    <div class="flex gap-4 my-5 text-3xl justify-center">
+      <Icon name="mdi:github" class="hover:-mt-2 rounded-full duration-300" />
+      <Icon name="mdi:facebook" class="hover:-mt-2 rounded-full duration-300" />
+      <Icon
+        name="mdi:instagram"
+        class="hover:-mt-2 rounded-full duration-300"
+      />
+    </div>
   </div>
 </template>
 <script setup></script>

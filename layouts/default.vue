@@ -1,6 +1,6 @@
 <template>
-  <Navbar class="px-2 md:px-96" />
-  <div class="px-2 md:px-96">
+  <Navbar class="px-5 md:px-96" />
+  <div class="px-5 md:px-96">
     <div>
       <slot />
     </div>
