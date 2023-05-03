@@ -31,7 +31,7 @@
       <button
         class="flex text-creamy font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black border-bluesh rounded duration-300"
       >
-        Download CV
+        View CV
       </button>
     </div>
     <div class="flex gap-4 my-5 text-3xl justify-center">

@@ -97,7 +97,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <!-- <div>
         <div
           class="grid grid-cols-3 items-center align-top after:h-[1px] after:col-span-2 after:block after:bg-white"
         >
@@ -133,8 +133,8 @@
             <p>Kurdish</p>
           </div>
         </div>
-      </div>
-      <div>
+      </div> -->
+      <!-- <div>
         <div
           class="grid grid-cols-3 items-center align-top after:h-[1px] after:col-span-2 after:bg-white"
         >
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
   <div></div>
