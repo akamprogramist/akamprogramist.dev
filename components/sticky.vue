@@ -6,15 +6,15 @@
   </div>
   <div class="my-10 space-y-4 text-stone-400">
     <p>
-      Hello! My name is <span class="text-white"> Zanyar</span>, I build web
-      applications, freelance, tutor programming, and live off eating instant
-      ramen 🍜. I first started out as a cyber-security enthusiast — and learned
-      programming only to build automated tools to make
+      Hello! My name is <span class="text-white"> Akam</span>, I build web
+      applications, freelance, tutor programming, and live off eating. I first
+      started out as a cyber-security enthusiast — and learned programming only
+      to build automated tools to make
     </p>
     <p>
       Hello! My name is Zanyar, I build web applications, freelance, tutor
-      programming, and live off eating instant ramen 🍜. I first started out as
-      a cyber-security enthusiast — and learned programming only to build
+      programming, and live off eating instant . I first started out as a
+      cyber-security enthusiast — and learned programming only to build
     </p>
     <p>
       With 20 years experience as a professional a graphic designer, I have
