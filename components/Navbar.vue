@@ -28,9 +28,9 @@
                 About Me
               </div>
             </NuxtLink>
-            <NuxtLink href="/">
+            <NuxtLink href="/Resume">
               <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
-                Projects
+                Resume
               </div>
             </NuxtLink>
             <NuxtLink href="/">

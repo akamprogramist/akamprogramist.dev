@@ -16,3 +16,18 @@ body {
   background-image: radial-gradient(#ababab6b 0.25px, #202023 1px);
   background-size: 23px 23px;
 }
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 1px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ababab6b;
+  border-radius: 25px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #f0e7db;
+  border-radius: 25px;
+}
