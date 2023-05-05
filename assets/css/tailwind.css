@@ -19,15 +19,5 @@ body {
 
 /* Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
-  width: 1px;
-}
-
-*::-webkit-scrollbar-track {
-  background: #ababab6b;
-  border-radius: 25px;
-}
-
-*::-webkit-scrollbar-thumb {
-  background-color: #f0e7db;
-  border-radius: 25px;
+  width: 15px;
 }
