@@ -35,11 +35,17 @@
       </button>
     </div>
     <div class="flex gap-4 my-5 text-3xl justify-center">
-      <Icon name="mdi:github" class="hover:-mt-2 rounded-full duration-300" />
-      <Icon name="mdi:facebook" class="hover:-mt-2 rounded-full duration-300" />
+      <Icon
+        name="mdi:github"
+        class="hover:-mt-2 grid rounded-full duration-300"
+      />
+      <Icon
+        name="mdi:facebook"
+        class="hover:-mt-2 grid rounded-full duration-300"
+      />
       <Icon
         name="mdi:instagram"
-        class="hover:-mt-2 rounded-full duration-300"
+        class="hover:-mt-2 grid rounded-full duration-300"
       />
     </div>
   </div>

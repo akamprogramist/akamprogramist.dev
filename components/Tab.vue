@@ -3,16 +3,8 @@
     <slot />
   </div>
 </template>
-<script>
+<script setup>
 import { inject } from "vue";
-export default {
-  props: ["title"],
-  setup() {
-    const selectedTitle = inject("selectedTitle");
-
-    return {
-      selectedTitle,
-    };
-  },
-};
+const props = defineProps(["title"]);
+const selectedTitle = inject("selectedTitle");
 </script>
