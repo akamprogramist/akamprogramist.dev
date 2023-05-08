@@ -1,8 +1,8 @@
 <template>
   <div>
-    <!-- <Landing />
+    <Landing />
     <About />
-    <Projects /> -->
+    <Projects />
   </div>
   <Expirence />
 </template>
