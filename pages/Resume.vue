@@ -16,9 +16,6 @@
       <Tab title="Expirence" class="flex-1 py-2 px-8 font-semibold rounded-full"
         ><Expirence
       /></Tab>
-      <Tab title="Education" class="flex-1 py-2 px-8 font-semibold rounded-full"
-        >education</Tab
-      >
     </TabsWrapper>
   </div>
 </template>
