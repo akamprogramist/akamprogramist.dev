@@ -1,14 +1,14 @@
 <template>
   <div class="tabs">
     <ul
-      class="tabs__header grid rounded-3xl md:py-0 grid-cols-3 md:flex md:rounded-full md:text-lg items-center text-center bg-black"
+      class="tabs__header grid rounded-3xl md:py-0 grid-cols-2 md:flex md:rounded-full md:text-lg items-center text-center bg-black"
     >
       <li
         v-for="title in tabTitles"
         :key="title"
         @click="selectedTitle = title"
         class="flex-1 py-2 px-8 font-semibold rounded-full cursor-pointer"
-        :class="title == selectedTitle ? 'bg-creamy' : ''"
+        :class="title == selectedTitle ? 'bg-creamy text-black' : ''"
       >
         {{ title }}
       </li>
