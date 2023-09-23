@@ -10,12 +10,8 @@
     >
     </Tab> -->
     <TabsWrapper>
-      <Tab title="Projects" class="flex-1 py-2 px-8 font-semibold rounded-full"
-        ><Projects
-      /></Tab>
-      <Tab title="Expirence" class="flex-1 py-2 px-8 font-semibold rounded-full"
-        ><Expirence
-      /></Tab>
+      <Tab title="Projects" class="md:py-2 md:px-8"><Projects /></Tab>
+      <Tab title="Expirence" class="md:py-2 md:px-8"><Expirence /></Tab>
     </TabsWrapper>
   </div>
 </template>
