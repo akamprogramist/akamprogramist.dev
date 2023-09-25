@@ -4,7 +4,7 @@
     <div class="py-10 gap-10">
       <div>
         <div
-          class="grid grid-cols-3 items-center align-top after:h-[1px] after:col-span-2 after:block after:bg-white"
+          class="grid grid-cols-3 items-center align-top after:h-[1px] after:col-span-2 after:block after:dark:bg-white after:bg-black"
         >
           <p class="tracking-[4px] font-bold">Programing</p>
         </div>
