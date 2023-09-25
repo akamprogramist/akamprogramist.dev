@@ -24,14 +24,14 @@
     </div>
     <div class="flex justify-center gap-4 my-7">
       <button
-        class="flex bg-bluesh dark:bg-creamy text-black font-bold py-3 px-8 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy border-bluesh rounded duration-300"
+        class="flex bg-bluesh dark:bg-creamy text-white dark:text-black font-bold py-3 px-8 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy hover:bg-transparent border-bluesh hover:text-bluesh rounded duration-300"
       >
         Get in Touche
       </button>
       <button
-        class="flex text-creamy font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black border-bluesh rounded duration-300"
+        class="flex text-bluesh font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black hover:bg-bluesh hover:text-white border-bluesh rounded duration-300"
       >
-        View CV
+        Download CV
       </button>
     </div>
     <div class="flex gap-4 my-5 text-3xl justify-center">

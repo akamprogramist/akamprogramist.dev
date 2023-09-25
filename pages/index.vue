@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <Landing />
-    <About />
-    <Projects />
-  </div>
-  <Expirence />
+  <Landing />
+  <About />
+  <Contact />
 </template>

@@ -23,9 +23,9 @@
       <Dropdown>
         <template #MenuItem>
           <div class="capitalize">
-            <NuxtLink href="/#about">
+            <NuxtLink href="/">
               <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
-                About Me
+                Home
               </div>
             </NuxtLink>
             <NuxtLink href="/Resume">
@@ -33,11 +33,11 @@
                 Resume
               </div>
             </NuxtLink>
-            <NuxtLink href="/">
+            <!-- <NuxtLink href="/">
               <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
                 Tech Stack
               </div>
-            </NuxtLink>
+            </NuxtLink> -->
           </div>
         </template>
       </Dropdown>

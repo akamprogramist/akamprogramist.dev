@@ -1,7 +1,7 @@
 <template>
   <div class="tabs">
     <ul
-      class="tabs__header grid rounded-3xl md:py-0 grid-cols-2 md:flex md:rounded-full md:text-lg items-center text-center bg-black"
+      class="tabs__header grid rounded-3xl md:py-0 grid-cols-2 md:flex md:rounded-full md:text-lg items-center text-center bg-primary border border-stone-700"
     >
       <li
         v-for="title in tabTitles"

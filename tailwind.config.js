@@ -9,6 +9,7 @@ export default {
         primary: "#202023",
         creamy: "#FBD38D",
         bluesh: "#3D7AED",
+        blueshy: "#1C5FED",
       },
     },
   },
