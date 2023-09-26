@@ -29,7 +29,7 @@
         Get in Touche
       </button>
       <button
-        class="flex text-bluesh font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black hover:bg-bluesh hover:text-white border-bluesh rounded duration-300"
+        class="flex text-bluesh dark:text-creamy font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black hover:bg-bluesh hover:text-white border-bluesh rounded duration-300"
       >
         Download CV
       </button>

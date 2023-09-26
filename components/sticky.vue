@@ -2,9 +2,9 @@
   <div
     class="grid grid-cols-2 items-center after:h-[1px] after:block after:dark:bg-white after:bg-black"
   >
-    <p class="tracking-[9px]">ABOUT ME</p>
+    <p class="tracking-[9px] text-black dark:text-white">ABOUT ME</p>
   </div>
-  <div class="my-10 space-y-4 dark:text-stone-400 text-stone-600">
+  <div class="my-10 space-y-4 dark:text-stone-400 text-stone-700">
     <p>
       Hello! My name is <span class="text-black dark:text-white"> Akam</span>, I
       build web applications, freelance, tutor programming, and live off eating.
