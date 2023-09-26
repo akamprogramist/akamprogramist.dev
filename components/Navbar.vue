@@ -6,30 +6,34 @@
     <div class="flex capitalize items-center gap-3">
       <div>
         <button
+          @click="toggleLight"
+          v-if="colorMode.value === 'light'"
+          class="flex items-center text-xl p-2.5 rounded-lg bg-bluesh hover:bg-blueshy text-white"
+        >
+          <Icon name="material-symbols:dark-mode-outline" />
+        </button>
+        <button
           @click="toggleDark"
-          v-if="colorMode.value === 'dark'"
+          v-else
           class="flex items-center text-xl p-2.5 rounded-lg bg-creamy hover:opacity-80 text-black"
         >
           <Icon name="material-symbols:sunny-outline-rounded" />
-        </button>
-        <button
-          @click="toggleLight"
-          v-else
-          class="flex items-center text-xl p-2.5 rounded-lg bg-violet-500 hover:bg-violet-600 text-white"
-        >
-          <Icon name="material-symbols:dark-mode-outline" />
         </button>
       </div>
       <Dropdown>
         <template #MenuItem>
           <div class="capitalize">
             <NuxtLink href="/">
-              <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
+              <div
+                class="w-full px-5 py-2 hover:bg-bluesh hover:text-white dark:hover:bg-creamy dark:hover:text-black"
+              >
                 Home
               </div>
             </NuxtLink>
             <NuxtLink href="/Resume">
-              <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
+              <div
+                class="w-full px-5 py-2 hover:bg-bluesh hover:text-white dark:hover:bg-creamy dark:hover:text-black"
+              >
                 Resume
               </div>
             </NuxtLink>

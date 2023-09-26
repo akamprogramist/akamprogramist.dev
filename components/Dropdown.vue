@@ -2,7 +2,7 @@
   <Menu as="div" class="relative">
     <div class="group">
       <MenuButton
-        class="flex items-center text-xl p-2.5 border rounded-lg hover:opacity-60"
+        class="flex items-center text-xl p-2.5 border border-zinc-700 dark:border-zinc-400 rounded-lg hover:opacity-60 duration-150"
       >
         <Icon name="ic:round-menu" />
       </MenuButton>
@@ -16,7 +16,9 @@
       leave-from-class="transform scale-100 opacity-100"
       leave-to-class="transform scale-95 opacity-0"
     >
-      <MenuItems class="absolute mt-1 w-52 right-0 bg-zinc-800 rounded shadow">
+      <MenuItems
+        class="absolute mt-1 w-52 right-0 bg-[#F5F0E8] dark:bg-zinc-800 rounded shadow"
+      >
         <div class="py-2">
           <slot name="MenuItem">
             <MenuItem>
