@@ -9,7 +9,7 @@
           />
         </div>
         <div
-          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[250px]"
+          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[325px] md:h-[250px]"
         ></div>
       </div>
       <div
@@ -42,7 +42,7 @@
           />
         </div>
         <div
-          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[225px]"
+          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[275px] md:h-[225px]"
         ></div>
       </div>
       <div
