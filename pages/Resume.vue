@@ -11,7 +11,7 @@
     </Tab> -->
     <TabsWrapper>
       <Tab title="Projects" class="md:py-2 md:px-8"><Projects /></Tab>
-      <Tab title="Expirence" class="md:py-2 md:px-8"><Expirence /></Tab>
+      <Tab title="Experience" class="md:py-2 md:px-8"><Expirence /></Tab>
     </TabsWrapper>
   </div>
 </template>

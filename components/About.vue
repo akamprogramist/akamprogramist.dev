@@ -30,28 +30,28 @@
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>Vue Js</p>
+            <p>Vue.js</p>
           </div>
           <div class="flex items-center text-xl space-x-2">
             <Icon
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>Tailwind CSS</p>
+            <p>Tailwind</p>
           </div>
           <div class="flex items-center text-xl space-x-2">
             <Icon
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>Inertia Js</p>
+            <p>Inertia.js</p>
           </div>
           <div class="flex items-center text-xl space-x-2">
             <Icon
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>MySql</p>
+            <p>MySQL</p>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>Application Development</p>
+            <p>Mobile Development</p>
           </div>
           <div class="flex items-center text-xl space-x-2">
             <Icon
@@ -97,7 +97,7 @@
               name="material-symbols:arrow-right"
               class="text-2xl text-creamy"
             />
-            <p>Sales & Adevrtising</p>
+            <p>Sales & Advertisement</p>
           </div>
         </div>
       </div>

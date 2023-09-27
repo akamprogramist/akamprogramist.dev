@@ -8,14 +8,13 @@
       </p>
     </div>
     <div class="flex justify-center">
-      <NuxtLink href="/#about">
-        <div
-          class="flex items-center gap-2 px-5 py-2 rounded border text-white bg-bluesh hover:bg-blueshy dark:border-zinc-600 dark:bg-zinc-800 dark:hover:bg-zinc-900 duration-300"
-        >
-          Get in touch
-          <Icon name="ic:outline-mail" />
-        </div>
-      </NuxtLink>
+      <a
+        href="mailto:akadev404@gmail.com"
+        class="flex items-center gap-2 px-5 py-2 rounded border text-white bg-bluesh hover:bg-blueshy dark:border-zinc-600 dark:bg-zinc-800 dark:hover:bg-zinc-900 duration-300"
+      >
+        Get in touch
+        <Icon name="ic:outline-mail" />
+      </a>
     </div>
   </div>
 </template>
