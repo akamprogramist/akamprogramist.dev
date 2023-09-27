@@ -17,11 +17,12 @@
     </div>
     <div>
       <p class="text-center my-5">
-        I’m a software engineer specializing in building (and occasionally
-        designing) exceptional digital experiences. Currently, I’m focused on
-        building accessible, human-centered products at Upstatement.
+        I work as a software developer who specializes in creating web
+        applications. I have four years of experience developing interactive web
+        applications from Front to Back using cutting-edge technologies.
       </p>
     </div>
+
     <div class="flex justify-center gap-4 my-7">
       <button
         class="flex bg-bluesh dark:bg-creamy text-white dark:text-black font-bold py-3 px-8 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy hover:bg-transparent border-bluesh hover:text-bluesh rounded duration-300"

@@ -19,17 +19,17 @@
         <p
           class="text-2xl capitalize font-bold my-2 group-hover:text-bluesh dark:group-hover:text-creamy duration-300"
         >
-          this is the title
+          Kiva Kurd
         </p>
         <p class="dark:text-stone-400 text-stone-700">
-          Lorem ipsum dolor sit amet consec tetur adipis ici ng elit.
-          Temporibus, ici ng elit. Temporibus
+          This online web application is designed to provide quick and
+          convenient access to small loans for individuals and businesses.
         </p>
         <div
           class="flex items-center gap-7 text-sm mt-5 dark:text-stone-400 text-stone-700"
         >
-          <p>laravel</p>
-          <p>Nuxt</p>
+          <p>Laravel</p>
+          <p>Vue.js</p>
           <p>Mysql</p>
         </div>
       </div>
@@ -53,18 +53,18 @@
         <p
           class="text-2xl capitalize font-bold my-2 group-hover:text-bluesh dark:group-hover:text-creamy duration-300"
         >
-          this is the title
+          Akam Programist
         </p>
         <p class="dark:text-stone-400 text-stone-700">
-          Lorem ipsum dolor sit amet consec tetur adipis ici ng elit.
-          Temporibus, ici ng elit. Temporibus
+          My portfolio web application showcases my skills, projects, and
+          achievements in a visually appealing and user-friendly manner.
         </p>
         <div
           class="flex items-center gap-7 text-sm mt-5 dark:text-stone-400 text-stone-700"
         >
-          <p>laravel</p>
+          <p>TailwindCss</p>
           <p>Nuxt</p>
-          <p>Mysql</p>
+          <p>Vue.js</p>
         </div>
       </div>
     </div>
@@ -87,18 +87,20 @@
         <p
           class="text-2xl capitalize font-bold my-2 group-hover:text-bluesh dark:group-hover:text-creamy duration-300"
         >
-          this is the title
+          Kurdorg
         </p>
         <p class="dark:text-stone-400 text-stone-700">
-          Lorem ipsum dolor sit amet consec tetur adipis ici ng elit.
-          Temporibus, ici ng elit. Temporibus
+          A full-stack web application has all the components needed for an
+          application. This includes both front-end and back-end, as well as the
+          database management system.
         </p>
         <div
           class="flex items-center gap-7 text-sm mt-5 dark:text-stone-400 text-stone-700"
         >
           <p>laravel</p>
-          <p>Nuxt</p>
+          <p>Vue.js</p>
           <p>Mysql</p>
+          <p>TailwindCss</p>
         </div>
       </div>
     </div>
