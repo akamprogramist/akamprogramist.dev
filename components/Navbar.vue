@@ -20,31 +20,6 @@
           <Icon name="material-symbols:sunny-outline-rounded" />
         </button>
       </div>
-      <Dropdown>
-        <template #MenuItem>
-          <div class="capitalize">
-            <NuxtLink href="/">
-              <div
-                class="w-full px-5 py-2 hover:bg-bluesh hover:text-white dark:hover:bg-creamy dark:hover:text-black"
-              >
-                Home
-              </div>
-            </NuxtLink>
-            <NuxtLink href="/Resume">
-              <div
-                class="w-full px-5 py-2 hover:bg-bluesh hover:text-white dark:hover:bg-creamy dark:hover:text-black"
-              >
-                Resume
-              </div>
-            </NuxtLink>
-            <!-- <NuxtLink href="/">
-              <div class="w-full px-5 py-2 hover:bg-creamy hover:text-black">
-                Tech Stack
-              </div>
-            </NuxtLink> -->
-          </div>
-        </template>
-      </Dropdown>
     </div>
   </div>
 </template>

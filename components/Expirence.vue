@@ -20,7 +20,7 @@
             class="flex items-center gap-2 text-sm text-bluesh dark:text-creamy"
           >
             <Icon name="uis:schedule" />
-            <p>2020 - 2020</p>
+            <p>2020 - 2021</p>
           </div>
           <p class="font-extrabold text-lg capitalize">technical specialist</p>
           <p class="text-sm dark:text-stone-400 text-stone-700">HCDT Company</p>
@@ -53,7 +53,7 @@
             class="flex items-center gap-2 text-sm text-bluesh dark:text-creamy"
           >
             <Icon name="uis:schedule" />
-            <p>2022 - 2022</p>
+            <p>2021 - 2022</p>
           </div>
           <p class="font-extrabold text-lg capitalize">
             competition participate
@@ -84,7 +84,7 @@
             class="flex items-center gap-2 text-sm text-bluesh dark:text-creamy"
           >
             <Icon name="uis:schedule" />
-            <p>2022 - 2022</p>
+            <p>2022 - 2023</p>
           </div>
           <p class="font-extrabold text-lg capitalize">full-stack developer</p>
           <p class="text-sm dark:text-stone-400 text-stone-700">

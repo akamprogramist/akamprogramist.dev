@@ -1,6 +1,6 @@
 <template>
   <div
-    class="grid grid-cols-2 items-center after:h-[1px] after:block after:dark:bg-white after:bg-black"
+    class="grid grid-cols-3 items-center align-top after:h-[1px] after:col-span-2 after:block after:dark:bg-white after:bg-black"
   >
     <p class="tracking-[9px] text-black dark:text-white">ABOUT ME</p>
   </div>
