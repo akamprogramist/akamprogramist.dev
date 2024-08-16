@@ -1,17 +1,6 @@
 <template>
   <div class="my-10">
-    <div class="flex items-start">
-      <div class="mr-5">
-        <div class="p-4 bg-bluesh dark:bg-creamy rounded-full">
-          <Icon
-            name="uis:schedule"
-            class="text-2xl text-white dark:text-black"
-          />
-        </div>
-        <div
-          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[325px] md:h-[250px]"
-        ></div>
-      </div>
+    <div class="flex items-start my-5">
       <div
         class="bg-[#f0e7db] dark:bg-primary border-zinc-400 dark:border-stone-700 border p-10 rounded-lg"
       >
@@ -33,18 +22,7 @@
         </p>
       </div>
     </div>
-    <div class="flex items-start">
-      <div class="mr-5">
-        <div class="p-4 bg-bluesh dark:bg-creamy rounded-full">
-          <Icon
-            name="uis:schedule"
-            class="text-2xl text-white dark:text-black"
-          />
-        </div>
-        <div
-          class="border-l-2 ml-[26px] border-bluesh dark:border-creamy h-[275px] md:h-[225px]"
-        ></div>
-      </div>
+    <div class="flex items-start my-5">
       <div
         class="bg-[#f0e7db] dark:bg-primary border-zinc-400 dark:border-stone-700 border p-10 rounded-lg"
       >
@@ -67,15 +45,7 @@
         </p>
       </div>
     </div>
-    <div class="flex items-start">
-      <div class="mr-5">
-        <div class="p-4 bg-bluesh dark:bg-creamy rounded-full">
-          <Icon
-            name="uis:schedule"
-            class="text-2xl text-white dark:text-black"
-          />
-        </div>
-      </div>
+    <div class="flex items-start my-5">
       <div
         class="bg-[#f0e7db] dark:bg-primary border-zinc-400 dark:border-stone-700 border p-10 rounded-lg"
       >

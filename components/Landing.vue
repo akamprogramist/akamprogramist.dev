@@ -8,7 +8,7 @@
       </p>
     </div>
     <div>
-      <p class="text-center my-5">
+      <p class="text-center my-5 text-stone-300">
         I work as a software developer who specializes in creating web
         applications. I have four years of experience developing interactive web
         applications from Front to Back using cutting-edge technologies.
@@ -18,14 +18,14 @@
     <div class="flex justify-center gap-4 my-7">
       <a
         href="mailto:akadev404@gmail.com"
-        class="flex bg-bluesh dark:bg-creamy text-white dark:text-black font-bold py-3 px-8 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy hover:bg-transparent border-bluesh hover:text-bluesh rounded duration-300"
+        class="flex bg-bluesh dark:bg-creamy text-white dark:text-black font-bold py-3 px-7 items-center border dark:hover:bg-opacity-0 dark:border-creamy dark:hover:text-creamy hover:bg-transparent border-bluesh hover:text-bluesh rounded duration-300"
       >
         Get in Touche
       </a>
       <a
-        href="/static/akam-kamal.pdf"
+        href="/akam-kamal.pdf"
         download="akam-kamal.pdf"
-        class="flex text-bluesh dark:text-creamy font-bold py-3 px-8 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black hover:bg-bluesh hover:text-white border-bluesh rounded duration-300"
+        class="flex text-bluesh dark:text-creamy font-bold py-3 px-7 items-center border dark:hover:bg-creamy dark:border-creamy dark:hover:text-black hover:bg-bluesh hover:text-white border-bluesh rounded duration-300"
       >
         Download CV
       </a>
